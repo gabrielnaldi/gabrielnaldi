@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel.
+## Ola! Meu nome é Gabriel Naldi e sou Desenvolvedor de Softwares.
 <div align="center">
   <a href="https://github.com/gabrielnaldi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielnaldi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
